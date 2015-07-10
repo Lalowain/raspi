@@ -1,3 +1,0 @@
-#raspi
-
-manal 1
